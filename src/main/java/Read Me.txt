@@ -1,0 +1,5 @@
+Username: admin
+Password: pass
+
+
+*** Open CMD here *** Type "javac Main.java" *** Hit Enter *** Type "java Main" ***
